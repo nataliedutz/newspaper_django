@@ -1,0 +1,37 @@
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff; /* Blue color */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    text-align: center;
+    transition: background-color 0.3s; /* Smooth transition for hover effect */
+}
+
+.btn:hover {
+    background-color: #8a2be2; /* Violet color on hover */
+}
+
+/* Style the paragraph */
+p {
+    font-size: 18px;
+    color: #333; /* Dark gray text color */
+    margin-bottom: 20px; /* Add some spacing below the paragraph */
+}
+
+/* Style the links */
+a {
+    color: #007bff; /* Blue color */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline; /* Underline the links on hover */
+}
+
+btn-link.active {
+    color: #660199;
+}
