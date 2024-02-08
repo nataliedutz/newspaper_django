@@ -52,7 +52,7 @@ DATABASES = {
  }
 ```
 
-- **Run Migrations to create the database table from fee_calculator/models.py:**
+- **Run Migrations to create the database table from accounts/models.py:**
 ```
 On Windows    : python manage.py makemigrations 
                 python manage.py migrate
