@@ -1,9 +1,0 @@
-# Virtual environment
-venv/
-.env
-
-# Python bytecode files
-__pycache__/
-
-# SQLite database file
-db.sqlite3
